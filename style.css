@@ -4,9 +4,18 @@ h1 {
     text-align: center;
     font-size: 36px;
 }
-
+.pageheader {
+    font-family: 'Bungee Outline';
+    font-weight: 900;
+    text-align: left;
+}
+h2 {
+    font-size: 36px;
+    font-weight: 900;
+    font-family: 'Bungee Outline';
+}
 .text {
     color: #04430C;
-    font-family:'Bungee Outline';
+    font-family:'Bungee Inline';
     font-size: 36px;
 }
