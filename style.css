@@ -1,4 +1,12 @@
 h1 {
-    font-family: 'Bungee Outline';
-    font-size: 22px;
+    background-color: #04430C;
+    color: white;
+    text-align: center;
+    font-size: 36px;
+}
+
+.text {
+    color: #04430C;
+    font-family:'Bungee Outline';
+    font-size: 36px;
 }
